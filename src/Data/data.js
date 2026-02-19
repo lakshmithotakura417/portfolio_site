@@ -40,7 +40,11 @@ import npm from "../assets/techtool_img_list/npm.svg";
 import socketio from "../assets/techtool_img_list/socketio.svg";
 import vercel from "../assets/techtool_img_list/vercel.svg";
 import vitejs from "../assets/techtool_img_list/vitejs.svg";
-import vscode from "../assets/techtool_img_list/vscode.svg"
+import vscode from "../assets/techtool_img_list/vscode.svg";
+
+// projects data
+import todoImage from "../assets/project_images/todoImage.png"
+
 export const frontendData = [
     {
       img: html,
@@ -214,6 +218,14 @@ export const frontendData = [
     },
   ];
   export const projectsData = [
+    {
+      imgUrl:todoImage,
+    pName: "Todo List",
+    gitUrl: "https://github.com/lakshmithotakura417/todo_list",
+    pDescription:
+      "We can add new task to this todo and also we can update and delete todos..",
+    languages: ["React js", "Tailwind"],
+    },
   {
     imgUrl:
       "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
