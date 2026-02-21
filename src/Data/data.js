@@ -44,6 +44,7 @@ import vscode from "../assets/techtool_img_list/vscode.svg";
 
 // projects data
 import todoImage from "../assets/project_images/todoImage.png"
+import employee_dashboard from "../assets/project_images/employee_dashboard.png"
 
 export const frontendData = [
     {
@@ -224,6 +225,14 @@ export const frontendData = [
     gitUrl: "https://github.com/lakshmithotakura417/todo_list",
     pDescription:
       "We can add new task to this todo and also we can update and delete todos..",
+    languages: ["React js", "Tailwind"],
+    },
+    {
+      imgUrl:employee_dashboard,
+    pName: "Employee Dashboard",
+    gitUrl: "https://github.com/lakshmithotakura417/employee-dashboard",
+    pDescription:
+      "A responsive Employee Management Dashboard built with React.js that allows users to add, update, and delete employee records with dynamic UI rendering and state management..",
     languages: ["React js", "Tailwind"],
     },
   {
