@@ -45,6 +45,8 @@ import vscode from "../assets/techtool_img_list/vscode.svg";
 // projects data
 import todoImage from "../assets/project_images/todoImage.png"
 import employee_dashboard from "../assets/project_images/employee_dashboard.png"
+import weather_img from "../assets/project_images/weather_img.png";
+import swiggy from "../assets/project_images/swiggy.png";
 
 export const frontendData = [
     {
@@ -235,6 +237,22 @@ export const frontendData = [
       "A responsive Employee Management Dashboard built with React.js that allows users to add, update, and delete employee records with dynamic UI rendering and state management..",
     languages: ["React js", "Tailwind"],
     },
+    {
+    imgUrl:weather_img,
+    pName: "Weather App",
+    gitUrl: "https://github.com/lakshmithotakura417/weather-app",
+    pDescription:
+      "Weather App is a modern, responsive web application developed using React.js for dynamic UI rendering and Tailwind CSS for clean and efficient styling.",
+    languages: ["React js", "tailwind"],
+  },
+   {
+    imgUrl:swiggy,
+    pName: "Swiggy Clone",
+    gitUrl: "https://github.com/lakshmithotakura417/swiggy-clone",
+    pDescription:
+      "Swiggy-style food listing interface using React. The application renders a list of products and dynamically shows detailed information when a user selects a specific item.",
+    languages: ["React js", "tailwind"],
+  },
   {
     imgUrl:
       "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
