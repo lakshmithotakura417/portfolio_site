@@ -47,6 +47,7 @@ import todoImage from "../assets/project_images/todoImage.png"
 import employee_dashboard from "../assets/project_images/employee_dashboard.png"
 import weather_img from "../assets/project_images/weather_img.png";
 import swiggy from "../assets/project_images/swiggy.png";
+import password from "../assets/project_images/password.png"
 
 export const frontendData = [
     {
@@ -251,6 +252,14 @@ export const frontendData = [
     gitUrl: "https://github.com/lakshmithotakura417/swiggy-clone",
     pDescription:
       "Swiggy-style food listing interface using React. The application renders a list of products and dynamically shows detailed information when a user selects a specific item.",
+    languages: ["React js", "tailwind"],
+  },
+   {
+    imgUrl:password,
+    pName: "Password Generator",
+    gitUrl: "https://github.com/lakshmithotakura417/password-generator",
+    pDescription:
+      "Password Generator built with React.js that creates secure passwords based on user-selected options like letters, numbers, and symbols.",
     languages: ["React js", "tailwind"],
   },
   {
