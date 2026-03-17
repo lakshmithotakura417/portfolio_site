@@ -262,31 +262,31 @@ export const frontendData = [
       "Password Generator built with React.js that creates secure passwords based on user-selected options like letters, numbers, and symbols.",
     languages: ["React js", "tailwind"],
   },
-  {
-    imgUrl:
-      "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
-    pName: "melody track",
-    gitUrl: "https://github.com/bellamkondasrikanth66/melodytrack",
-    pDescription:
-      "About MelodyTrack is a web-based music inventory management pplication designed to manage and organize music inventory..",
-    languages: ["python", "Django"],
-  },
-  {
-    imgUrl:
-      "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
-    pName: "sad talker",
-    gitUrl: "https://github.com/bellamkondasrikanth66/SadTalker",
-    pDescription:
-      "Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation ..",
-    languages: ["python", "Django"],
-  },
-  {
-    imgUrl:
-      "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
-    pName: "expences tracker",
-    gitUrl: "https://github.com/bellamkondasrikanth66/webbasedexpensestracker",
-    pDescription:
-      "Web-based expenses tracker is a web application designed to help users track, manage, and analyze their personal expenses",
-    languages: ["python", "Django"],
-  },
+  // {
+  //   imgUrl:
+  //     "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
+  //   pName: "melody track",
+  //   gitUrl: "https://github.com/bellamkondasrikanth66/melodytrack",
+  //   pDescription:
+  //     "About MelodyTrack is a web-based music inventory management pplication designed to manage and organize music inventory..",
+  //   languages: ["python", "Django"],
+  // },
+  // {
+  //   imgUrl:
+  //     "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
+  //   pName: "sad talker",
+  //   gitUrl: "https://github.com/bellamkondasrikanth66/SadTalker",
+  //   pDescription:
+  //     "Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation ..",
+  //   languages: ["python", "Django"],
+  // },
+  // {
+  //   imgUrl:
+  //     "https://img.freepik.com/free-vector/online-music-streaming-service-isometric-landing-page_107791-4911.jpg?semt=ais_hybrid&w=740&q=80",
+  //   pName: "expences tracker",
+  //   gitUrl: "https://github.com/bellamkondasrikanth66/webbasedexpensestracker",
+  //   pDescription:
+  //     "Web-based expenses tracker is a web application designed to help users track, manage, and analyze their personal expenses",
+  //   languages: ["python", "Django"],
+  // },
 ];

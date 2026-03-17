@@ -10,7 +10,7 @@ const Home = () => {
             hi! my name is
           </h3>
           <h1 className="md:text-9xl  text-4xl font-bold font-sarif py-3 capitalize">
-            Srikanth
+            Lakshmi
           </h1>
           <p className="md:text-xl text-[16px] font-semibold leading-6 md:leading-8 capitalize">
             i am a full stack webdeveloper.
